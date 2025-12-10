@@ -13,6 +13,7 @@ X = df.drop(columns = ["target"]).to_numpy()
 
 y = df["target"].to_numpy()
 
+# Scale features to mean 0 and std 1 for stable and efficient training
 X = StandardScaler().fit_transform(X)
 
 X_train, X_test, y_train, y_test = train_test_split(
