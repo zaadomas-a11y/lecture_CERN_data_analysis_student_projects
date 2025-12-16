@@ -1,0 +1,17 @@
+Date,Description,Amount,Category,Type
+2025-12-16,spent 100 food,-100.0,Food,Expense
+2025-12-16,spent 200 gas,-200.0,Transport,Expense
+2025-12-16,income 500,500.0,Income,Income
+2025-12-16,gift 500,-500.0,Other,Expense
+2025-12-16,Buy SP500,-681.6509765625001,Investment,Expense
+2025-12-16,income gift 500,500.0,Income,Income
+2025-12-16,income 1000,1000.0,Income,Income
+2025-12-16,spent 300 rent,-300.0,Bills,Expense
+2025-12-16,income 200 bonus,200.0,Income,Income
+2025-12-16,income 300 gift,300.0,Income,Income
+2025-12-16,Buy SP500,-340.82548828125005,Investment,Expense
+2024-12-16,Buy SP500,-340.82548828125005,Investment,Expense
+2025-12-16,gift 500,500.0,Income,Expense
+2025-12-16,bonus 1000,1000.0,Income,Income
+2025-12-16,gift 500,500.0,Income,Expense
+2025-12-16,gift 400,4400.0,Income,Expense
